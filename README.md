@@ -23,10 +23,10 @@ This project was generated with Angular CLI version 13.1.3.
 ![Contacts](src/assets/app-angular/contatos.jpg)
 
 ## Technologies
-
-    - [x] HTML
-    - [x] TypeScript
-    - [x] CSS
+   
+   - [x] HTML
+   - [x] TypeScript
+   - [x] CSS
 
 ## Development server
 
